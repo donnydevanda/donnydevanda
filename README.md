@@ -1,6 +1,6 @@
 <h3>Hi there, I'm Donny. 👋</h3>
 
-<p>I am currently pursuing my CS Master's degree at BINUS University. Passionate in Software Engineering and Products. Comfortable working using Rails and Laravel. Sometimes I post my UI/UX work in Dribbble and Medium.</p>
+<p>I am currently pursuing my CS Master's degree at BINUS University. Passionate in Software Engineering and UI/UX. Comfortable working using Rails and Laravel. Sometimes I post my UI/UX work in Dribbble and Medium.</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
